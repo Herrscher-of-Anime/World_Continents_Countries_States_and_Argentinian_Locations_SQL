@@ -1,0 +1,37 @@
+# Lista de Continentes, "Países" y "Provincias" del Mundo, junto con las Localidades Argentinas
+Esta lista completa contiene:
+- 8 Continentes
+- 249 Países
+  - 198 Países Soberanos
+    - 14 países en Sudamérica
+    - 3 países en Norteamérica
+    - 45 países en Europa
+    - 54 países en Asia
+    - 18 países en Centroamérica
+    - 10 países en Oceanía
+    - 54 países en África
+  - 51 Países No Soberanos
+    - 4 países en Sudamérica
+    - 4 países en Norteamérica
+    - 7 países en Europa
+    - 6 países en Asia
+    - 17 países en Centroamérica
+    - 10 países en Oceanía
+    - 3 países en África
+- ***** Provincias
+  - **** Provincias de países soberanos
+    - 276 provincias en Sudamérica
+    - 96 provincias en Norteamérica
+    - *** provincias en Europa
+    - *** provincias en Asia
+    - *** provincias en Centroamérica
+    - *** provincias en Oceanía
+    - *** provincias en África
+  - **** Provincias de países no soberanos
+    - 58 provincias en Sudamérica
+    - 26 provincias en Norteamérica
+    - *** provincias en Europa
+    - *** provincias en Asia
+    - *** provincias en Centroamérica
+    - *** provincias en Oceanía
+    - *** provincias en África
