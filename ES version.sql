@@ -16730,7 +16730,7 @@ VALUES
     -- Municipios & Área no incorporada de Groenlandia (6)
         ('Avannaata', 7, (SELECT ID FROM paises WHERE nombre = 'Groenlandia')), 
         ('Kujalleq', 7, (SELECT ID FROM paises WHERE nombre = 'Groenlandia')), 
-        ('Parque nacional del noreste', #Área#, (SELECT ID FROM paises WHERE nombre = 'Groenlandia')), 
+        ('Parque nacional del noreste', 38, (SELECT ID FROM paises WHERE nombre = 'Groenlandia')), 
         ('Qeqertalik', 7, (SELECT ID FROM paises WHERE nombre = 'Groenlandia')), 
         ('Qeqqata', 7, (SELECT ID FROM paises WHERE nombre = 'Groenlandia')), 
         ('Sermersooq', 7, (SELECT ID FROM paises WHERE nombre = 'Groenlandia')), 
@@ -16751,13 +16751,13 @@ VALUES
         ('San Pedro', 37, (SELECT ID FROM paises WHERE nombre = 'San Pedro y Miquelón')), 
 
     -- Áreas residenciales de Gibraltar (7)
-        ('East Side', #Área#, (SELECT ID FROM paises WHERE nombre = 'Gibraltar')), 
-        ('North District', #Área#, (SELECT ID FROM paises WHERE nombre = 'Gibraltar')), 
-        ('Reclamation Areas', #Área#, (SELECT ID FROM paises WHERE nombre = 'Gibraltar')), 
-        ('Sandpits Area', #Área#, (SELECT ID FROM paises WHERE nombre = 'Gibraltar')), 
-        ('South District', #Área#, (SELECT ID FROM paises WHERE nombre = 'Gibraltar')), 
-        ('Town Area', #Área#, (SELECT ID FROM paises WHERE nombre = 'Gibraltar')), 
-        ('Upper Town', #Área#, (SELECT ID FROM paises WHERE nombre = 'Gibraltar')), 
+        ('East Side', 38, (SELECT ID FROM paises WHERE nombre = 'Gibraltar')), 
+        ('North District', 38, (SELECT ID FROM paises WHERE nombre = 'Gibraltar')), 
+        ('Reclamation Areas', 38, (SELECT ID FROM paises WHERE nombre = 'Gibraltar')), 
+        ('Sandpits Area', 38, (SELECT ID FROM paises WHERE nombre = 'Gibraltar')), 
+        ('South District', 38, (SELECT ID FROM paises WHERE nombre = 'Gibraltar')), 
+        ('Town Area', 38, (SELECT ID FROM paises WHERE nombre = 'Gibraltar')), 
+        ('Upper Town', 38, (SELECT ID FROM paises WHERE nombre = 'Gibraltar')), 
 
     -- Parroquias de Guernsey (10)
         ('Castel', 5, (SELECT ID FROM paises WHERE nombre = 'Guernsey')), 
@@ -17307,3 +17307,4 @@ VALUES
         ('El Aaiún', 1, (SELECT ID FROM paises WHERE nombre = 'República Árabe Saharaui Democrática')), 
         ('Esmara', 1, (SELECT ID FROM paises WHERE nombre = 'República Árabe Saharaui Democrática')), 
         ('Oued Ed-Dahab', 1, (SELECT ID FROM paises WHERE nombre = 'República Árabe Saharaui Democrática'));
+
