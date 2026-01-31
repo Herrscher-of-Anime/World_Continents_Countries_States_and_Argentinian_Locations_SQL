@@ -18,5 +18,62 @@ This list contains:
     - 17 in Central America
     - 10 in Australia/Oceania
     - 3 in Africa
-- 
+- 4,368 World Provinces
+  - 40 "types" of Provinces in the World
+    - 830 Provinces
+    - 641 Municipalities
+    - 432 Districts
+    - 428 Regions
+    - 266 States
+    - 208 Departments
+    - 179 Counties
+    - 161 Governorates
+    - 132 Cities
+    - 129 Islands
+    - 128 Parishes
+    - 114 Oblasts
+    - 97 Raioani
+    - 73 Councils
+    - 66 Communes
+    - 65 Atolls
+    - 64 Prefectures
+    - 35 Areas
+    - 30 Divisions
+    - 27 Federal Units
+    - 26 Cantons
+    - 25 Republics
+    - 23 Territories
+    - 22 Entities
+    - 21 Kraje
+    - 17 Oblystar
+    - 17 Autonomous Communities
+    - 16 Voivodeships
+    - 15 Fylker
+    - 14 Villages
+    - 11 Districts
+    - 9 Krais
+    - 9 Castles
+    - 7 Administrations
+    - 6 Dependencies
+    - 5 Zones
+    - 4 Constituent Nations
+    - 4 Regions
+    - 3 Kingdoms
+    - 1 Autonomous Sector
+  - 3,818 Provinces in 'Sovereign' Countries
+    - 273 in South America
+    - 95 in North America
+    - 985 in Europe
+    - 1,095 in Asia
+    - 263 in Central America
+    - 114 in Australia/Oceania
+    - 993 in Africa
+  - 550 Provinces in 'Non-Sovereign' Countries
+    - 52 in South America
+    - 26 in North America
+    - 64 in Europe
+    - 78 in Asia
+    - 219 in Central America
+    - 64 in Australia/Oceania
+    - 47 in Africa
 - 12,061 Localities/Locations in Argentina
