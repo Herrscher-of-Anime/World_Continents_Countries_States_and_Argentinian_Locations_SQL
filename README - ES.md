@@ -2,36 +2,21 @@
 Esta lista completa contiene:
 - 8 Continentes
 - 249 Países
-  - 198 Países Soberanos
-    - 14 países en Sudamérica
-    - 3 países en Norteamérica
-    - 45 países en Europa
-    - 54 países en Asia
-    - 18 países en Centroamérica
-    - 10 países en Oceanía
-    - 54 países en África
-  - 51 Países No Soberanos
-    - 4 países en Sudamérica
-    - 4 países en Norteamérica
-    - 7 países en Europa
-    - 6 países en Asia
-    - 17 países en Centroamérica
-    - 10 países en Oceanía
-    - 3 países en África
-- ***** Provincias
-  - **** Provincias de países soberanos
-    - 276 provincias en Sudamérica
-    - 96 provincias en Norteamérica
-    - *** provincias en Europa
-    - *** provincias en Asia
-    - *** provincias en Centroamérica
-    - *** provincias en Oceanía
-    - *** provincias en África
-  - **** Provincias de países no soberanos
-    - 58 provincias en Sudamérica
-    - 26 provincias en Norteamérica
-    - *** provincias en Europa
-    - *** provincias en Asia
-    - *** provincias en Centroamérica
-    - *** provincias en Oceanía
-    - *** provincias en África
+  - 198 Países 'Soberanos'
+    - 14 en Sudamérica
+    - 3 en Norteamérica
+    - 45 en Europa
+    - 53 en Asia
+    - 18 en Centroamérica
+    - 11 en Oceanía
+    - 54 en África
+  - 51 Países 'No Soberanos'
+    - 4 en Sudamérica
+    - 4 en Norteamérica
+    - 7 en Europa
+    - 6 en Asia
+    - 17 en Centroamérica
+    - 10 en Oceanía
+    - 3 en África
+- 
+- 12,061 Localidades Argentinas
