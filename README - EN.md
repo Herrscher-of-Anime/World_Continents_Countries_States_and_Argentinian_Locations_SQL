@@ -1,37 +1,4 @@
 # List of Continents, Countries, States of the World + Argentinian Locations
 This list contains:
 - 8 Continents
-- 249 Countries
-  - 198 Sovereign Countries
-    - 14 countries in South America
-    - 3 countries in North America
-    - 45 countries in Europe
-    - 54 countries in Asia
-    - 18 countries in Central America
-    - 10 countries in Oceania
-    - 54 countries in Africa
-  - 51 Non-Sovereign Countries
-    - 4 countries in South America
-    - 4 countries in North America
-    - 7 countries in Europe
-    - 6 countries in Asia
-    - 17 countries in Central America
-    - 10 countries in Oceania
-    - 3 countries in Africa
-- ***** Provinces
-  - *** Sovereign Country provinces
-    - 276 provinces in South America
-    - 96 provinces in North America
-    - 556 provinces in Europe
-    - *** provinces in Asia
-    - *** provinces in Central America
-    - *** provinces in Oceania
-    - *** provinces in Africa
-  - **84 Non-Sovereign Country provinces
-    - 58 provinces in South America
-    - 26 provinces in North America
-    - *** provinces in Europe
-    - *** provinces in Asia
-    - *** provinces in Central America
-    - *** provinces in Oceania
-    - *** provinces in Africa
+- 
