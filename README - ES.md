@@ -1,4 +1,4 @@
-# Lista de Continentes, "Países" y "Provincias" del Mundo, junto con las Localidades Argentinas
+# Lista de Continentes, Países y Provincias del Mundo, junto con las Localidades Argentinas
 Esta lista completa contiene:
 - 8 Continentes
 - 249 Países
@@ -18,5 +18,48 @@ Esta lista completa contiene:
     - 17 en Centroamérica
     - 10 en Oceanía
     - 3 en África
-- 
+- 4,368 Provincias del Mundo
+  - 40 "tipos" de Provincias en el Mundo
+    - 830 Provincias
+    - 641 Municipios
+    - 432 Distritos
+    - 428 Regiones
+    - 266 Estados
+    - 208 Departamentos
+    - 179 Condados
+    - 161 Gobernaciones
+    - 132 Ciudades
+    - 129 Islas
+    - 128 Parroquias
+    - 114 Óblasts
+    - 97 Raioane
+    - 73 Consejos
+    - 66 Comunas
+    - 65 Atolones
+    - 64 Prefecturas
+    - 35 Áreas
+    - 30 Divisiones
+    - 27 Unidades Federativas
+    - 26 Cantones
+    - 25 Repúblicas
+    - 23 Territorios
+    - 22 Entidades
+    - 21 Kraje
+    - 17 Oblystar
+    - 17 Comunidades autónomas
+    - 16 Voivodatos
+    - 15 Fylker
+    - 14 Villas
+    - 11 Barrios
+    - 9 Krais
+    - 9 Castellos
+    - 7 Administraciones
+    - 6 Dependencias
+    - 5 Zonas
+    - 4 Naciones constituyentes
+    - 4 Comarcas
+    - 3 Reinos
+    - 1 Sector autónomo
+  - *** Provincias en Países 'Soberanos'
+  - *** Provincias en Países 'No Soberanos'
 - 12,061 Localidades Argentinas
