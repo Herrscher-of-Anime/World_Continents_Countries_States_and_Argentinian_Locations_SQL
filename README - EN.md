@@ -1,4 +1,22 @@
 # List of Continents, Countries, States of the World + Argentinian Locations
 This list contains:
 - 8 Continents
+- 249 Countries
+  - 198 'Sovereign' Countries
+    - 14 in South America
+    - 3 in North America
+    - 45 in Europe
+    - 53 in Asia
+    - 18 in Central America
+    - 11 in Australia/Oceania
+    - 54 in Africa
+  - 51 'Non-Sovereign' Countries
+    - 4 in South America
+    - 4 in North America
+    - 7 in Europe
+    - 6 in Asia
+    - 17 in Central America
+    - 10 in Australia/Oceania
+    - 3 in Africa
 - 
+- 12,061 Localities/Locations in Argentina
