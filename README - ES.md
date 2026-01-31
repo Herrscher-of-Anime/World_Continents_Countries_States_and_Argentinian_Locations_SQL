@@ -60,6 +60,20 @@ Esta lista completa contiene:
     - 4 Comarcas
     - 3 Reinos
     - 1 Sector autónomo
-  - *** Provincias en Países 'Soberanos'
-  - *** Provincias en Países 'No Soberanos'
+  - 3,818 Provincias en Países 'Soberanos'
+   - 273 en Sudamérica
+   - 95 en Norteamérica
+   - 985 en Europa
+   - 1,095 en Asia
+   - 263 en Centroamérica
+   - 114 en Oceanía
+   - 993 en África
+  - 550 Provincias en Países 'No Soberanos'
+   - 52 en Sudamérica
+   - 26 en Norteamérica
+   - 64 en Europa
+   - 78 en Asia
+   - 219 en Centroamérica
+   - 64 en Oceanía
+   - 47 en África
 - 12,061 Localidades Argentinas
